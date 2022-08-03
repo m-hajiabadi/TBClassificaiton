@@ -1,6 +1,7 @@
 # TBClassificaiton
 Tuberculosis (TB) Chest X-ray Database
-5)جمع بندی نهایی:
+
+
 مجموعه داده حاضر از تصاویر ریه سالم و بیمار تشکیل شده است که دارای اطلاعات زیر است.
 
 ![image](https://user-images.githubusercontent.com/46417220/182558392-6b65d025-ffc3-4a68-af4f-e7969f2475a2.png)
